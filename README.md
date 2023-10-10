@@ -1,7 +1,7 @@
 #ATM Machine
 
 
-A Miniproject on implementing operations of User Manual Of ATM Machine 
+A Mini project on implementing operations of User Manual Of ATM Machine 
 
 #Language
 
@@ -17,9 +17,3 @@ Transaction History
 Withdraw
 Deposit
 Transfer
-
-#FEEDBACK
-
-
-
-Any suggestion and feedback is welcome. You can message me on Instagram
